@@ -1,35 +1,72 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Lukas%20Knappich&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Application%20Developer%20from%20Germany%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=58&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f2a1a&height=160&section=header&text=LUKAS%20KNAPPICH&fontSize=52&fontColor=39d353&fontAlignY=42&desc=%2F%2F%20LINUX%20SYSTEM%20ADMINISTRATOR%20%E2%80%94%20GERMANY&descAlignY=72&descSize=16&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lknappich">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lukas!;Backend+with+Java+%26+Spring+%E2%98%95;Frontend+with+Vue+%26+Nuxt+%F0%9F%92%9A;Homelab+%26+Linux+enthusiast+%F0%9F%90%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=39D353&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+linux+sysadmin;%24+kubectl+get+pods+-A+%E2%86%92+all+Running;%24+nginx+-t+%E2%86%92+syntax+is+ok;%24+uptime+%E2%86%92+99.9%25+and+counting;%24+sudo+make+it+work" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leysterjs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/lknappich?tab=followers"><img src="https://img.shields.io/github/followers/lknappich?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/ROLE-Linux%20Sysadmin-39d353?style=for-the-badge&labelColor=0d1117" alt="Role" />
+  <img src="https://img.shields.io/badge/STATUS-On%20Call-39d353?style=for-the-badge&labelColor=0d1117" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=leysterjs&label=PROFILE%20VIEWS&color=39d353&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About me
+### `> sitrep`
 
-- 🔭 I build applications end to end — from **Spring Boot** APIs to **Vue/Nuxt** frontends
-- 🌱 Currently leveling up in **TypeScript**, **Nuxt** and **Spring**
-- 🏠 In my free time I tinker with my **homelab** (Proxmox, Raspberry Pi, Linux)
-- 🎨 Occasionally I dive into **Blender** for some 3D fun
+```yaml
+operator:   Lukas Knappich
+role:       Linux System Administrator
+location:   Germany
+mission:
+  - keep servers alive, patched and hardened
+  - run containers at scale with Kubernetes
+  - route traffic cleanly through NGINX & Traefik
+  - automate everything that has to be done twice
+background: application development (Java/Spring, Vue/Nuxt)
+homelab:    Proxmox · Raspberry Pi · self-hosted services
+```
 
 ---
 
-### 🛠️ Tech Stack
+### `> loadout`
 
 <table align="center">
   <tr>
-    <td align="center" width="160"><b>⚙️ Backend</b></td>
+    <td align="center" width="170"><b>🐧 Systems</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,bash,raspberrypi&theme=dark" alt="Systems" />
+      <br />
+      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>☸️ Containers</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Containers" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Traffic</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="NGINX" />
+      <br />
+      <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 Automation & Monitoring</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ansible,githubactions,git,grafana,prometheus&theme=dark" alt="Automation and monitoring" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mongodb,mysql&theme=dark" alt="Backend" />
     </td>
@@ -37,43 +74,35 @@
   <tr>
     <td align="center"><b>🎨 Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,vue&theme=dark" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs&theme=dark" alt="Frontend" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>📚 Learning</b></td>
+    <td align="center"><b>🛠️ Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,nuxtjs,spring,git&theme=dark" alt="Learning" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔍 Interested in</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux,bash,raspberrypi,postman,blender&theme=dark" alt="Interests" />
-      <br />
-      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+      <img src="https://skillicons.dev/icons?i=postman,blender&theme=dark" alt="Tools" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### `> telemetry`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lknappich&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lknappich&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lknappich&show_icons=true&hide_border=true&border_radius=6&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lknappich&layout=compact&hide_border=true&border_radius=6&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lknappich&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lknappich&hide_border=true&border_radius=6&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lknappich&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lknappich&bg_color=0d1117&color=c9d1d9&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&radius=6" alt="Contribution Graph" />
 </p>
 
-### 🐍 Contribution Snake
+### `> tail -f /var/log/contributions`
 
 <p align="center">
   <picture>
@@ -83,7 +112,6 @@
   </picture>
 </p>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=120&section=footer" alt="Footer" />
+  <code>[ OK ] connection closed — thanks for stopping by</code>
 </p>
